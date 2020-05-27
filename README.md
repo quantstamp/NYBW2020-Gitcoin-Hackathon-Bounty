@@ -18,7 +18,7 @@ We would like to review the actual tests done. This bounty will only relate to t
 - Have clear instructions on how to run the test suite
 
 ## Submission Deadline
-May 31th, 2020 (11:59PM EST)
+May 31st, 2020 (11:59PM EST)
 
 ## Judging Criteria
 Having a high-quality test suite—one that includes unit, integration and functional tests—is essential for projects. Tests should have assertions that check effects of the executed code in case of a successful transaction as well as a revert message in case of a rejected transaction. Writing such assertions would be cumbersome without a clear technical specification that lists all system requirements. Don’t write tests just to reach 100% coverage, write tests to find bugs. Your submission will be judged qualitatively and only those with 80% or better coverage will be accepted. 
